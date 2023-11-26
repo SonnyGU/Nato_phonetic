@@ -24,7 +24,7 @@ Before running the "Kanye Says..." application, users will need:
 
 <h2>Installation</h2>
 
-- **Clone the Repository:** git clone https://github.com/SonnyGU/Kayne.West.git
+- **Clone the Repository:** git clone https://github.com/SonnyGU/Nato_phonetic.git
 -  **Navigate to the Project Directory:** cd Nato_phonetic
 -  **Install Required Libraries:**
     - pandas
